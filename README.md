@@ -1,6 +1,6 @@
 ##  Sales Analysis Dashboard
 
-![Sales Dashboard](sales analysis .png.png)
+![Sales Dashboard](sales-dashboard.png.png)
 ---
 
 ###  Project Overview  
